@@ -11,6 +11,8 @@ h2 {
     height: 50px;
     border: 1px solid white;
     background-color: dodgerblue;
+    text-align: center;
+    line-height: 50px;
 }
 
 section {

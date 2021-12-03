@@ -139,19 +139,19 @@
 
 
 /* Utilities per allineamento */
+
+
+
 .content-start {
     justify-content: flex-start;
-    text-align: start;
 }
 
 .content-center {
-    justify-self: center;
-    text-align: center;
+    justify-content: center;
 }
 
-.content-right {
+.content-end {
     justify-content: flex-end;
-    text-align: end;
 }
 
 .align-start {
