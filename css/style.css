@@ -1,13 +1,18 @@
 body {
     font-family: sans-serif;
+    color: white;
 }
 
-.row {
-    border: 1px dashed violet;
+h2 {
+    color: black;
 }
 
 [class^="col"] {  
-    height: 100px;
-    border: 1px dashed blue;
-    background-color: green;
+    height: 50px;
+    border: 1px solid white;
+    background-color: dodgerblue;
+}
+
+section {
+    margin: 30px 0;
 }
