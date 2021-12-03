@@ -11,7 +11,6 @@ h2 {
     height: 50px;
     border: 1px solid white;
     background-color: dodgerblue;
-    padding: 5px;
 }
 
 section {
@@ -20,7 +19,7 @@ section {
 
 /* Nested */
 .nested {
-    background-color: green;
+    background-color: #0f9a4d;
 }
 
 .sub-nested {
