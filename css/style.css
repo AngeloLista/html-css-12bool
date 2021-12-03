@@ -3,9 +3,10 @@ body {
 }
 
 .row {
+    border: 1px dashed violet;
 }
 
-.col {  
+[class^="col"] {  
     height: 100px;
     border: 1px dashed blue;
     background-color: green;
